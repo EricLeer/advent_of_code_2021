@@ -1,0 +1,1 @@
+My entry into the advent of code 2021. This is also my first time trying out rust so solution will be rough.
